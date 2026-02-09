@@ -26,7 +26,7 @@ Para este dashboard, he aplicado técnicas de nivel avanzado para garantizar un 
 ---
 
 ## 📸 Vista Previa
-Captura de pantalla 2026-02-09 091430.png
+![Dashboard Netflix](dashboard.png)
 
 ---
 
